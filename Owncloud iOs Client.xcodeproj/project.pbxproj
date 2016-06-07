@@ -5308,7 +5308,7 @@
 				);
 				MTL_ENABLE_DEBUG_INFO = YES;
 				OTHER_SWIFT_FLAGS = "-D DEBUG";
-				PRODUCT_BUNDLE_IDENTIFIER = com.pttict.owncloud.ios;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.pttict.owncloud.ios.owncloud.ios.OC-Share--Sheet";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SKIP_INSTALL = YES;
@@ -5351,7 +5351,7 @@
 				);
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_SWIFT_FLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = com.pttict.owncloud.ios;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.pttict.owncloud.ios.owncloud.ios.OC-Share--Sheet";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SKIP_INSTALL = YES;
@@ -5412,7 +5412,7 @@
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = "-Obj-C";
-				PRODUCT_BUNDLE_IDENTIFIER = com.pttict.owncloud.ios;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pttict.owncloud.ios.ownCloudExtApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SKIP_INSTALL = YES;
@@ -5468,7 +5468,7 @@
 				);
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "-Obj-C";
-				PRODUCT_BUNDLE_IDENTIFIER = com.pttict.owncloud.ios;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pttict.owncloud.ios.ownCloudExtApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SKIP_INSTALL = YES;
@@ -5523,7 +5523,7 @@
 				);
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.pttict.owncloud.ios;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.pttict.owncloud.ios.ownCloudExtAppFileProvi-der";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SKIP_INSTALL = YES;
@@ -5573,7 +5573,7 @@
 					"$(PROJECT_DIR)",
 				);
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = com.pttict.owncloud.ios;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.pttict.owncloud.ios.ownCloudExtAppFileProvi-der";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SKIP_INSTALL = YES;
